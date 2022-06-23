@@ -1,0 +1,1521 @@
+{
+    "meta":{
+       "format":"JSON",
+       "version":"1.1.0",
+       "projectId":"instacate-development-en-472ed",
+       "resourcePath":[
+          
+       ],
+       "recursive":true,
+       "creationTime":1637908540,
+       "app":"firefoo"
+    },
+    "data":{
+       "__collections__":{
+          "vendor_profiles":{
+             "1nfVZlK8IfreDXvnyHcY":{
+                "address":"Folkungagatan 95, 116 30 Stockholm, Sweden",
+                "bookBeforeDays":4,
+                "city":"stockholm",
+                "contactEmailAddress":"vendor_anette@mailinator.com",
+                "contactNumber":"0046 76 227 72 27",
+                "contactPersonName":"Anette Henriksson",
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637413725,
+                      "_nanoseconds":0
+                   }
+                },
+                "description":"Authentic Peruvian streetfood: arepas!",
+                "isDeliveryEnabled":false,
+                "isPickupEnabled":true,
+                "isSupplementEnabled":true,
+                "locations":[
+                   "älta",
+                   "årsta",
+                   "bro",
+                   "danderyd",
+                   "enskede",
+                   "hägersten",
+                   "handen",
+                   "hässelby",
+                   "järfälla",
+                   "johanneshov",
+                   "lidingö",
+                   "norrmalm",
+                   "östermalm",
+                   "skärholmen",
+                   "södermalm",
+                   "vårby",
+                   "vasastan"
+                ],
+                "logoImageUrl":"https://firebasestorage.googleapis.com/v0/b/instacate-development-en-472ed.appspot.com/o/images%2Fvendors%2F1nfVZlK8IfreDXvnyHcY%2Flogo_Panini.png?alt=media&token=c6c38e01-0228-4c38-8dd4-d4b8d347d23a",
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637413735,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Foodtruck Taberna Andlina",
+                "nonBookableDates":[
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1637953200,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638039600,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638558000,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638644400,
+                         "_nanoseconds":0
+                      }
+                   }
+                ],
+                "organizationNumber":"365898-1485",
+                "postalCode":"116 30",
+                "status":"enabled",
+                "supplementMarkup":5.58,
+                "__collections__":{
+                   
+                }
+             },
+             "Uxs2KRlmWISPIM7lZrGE":{
+                "address":"Hammarby Fabriksväg 43, 120 30 Stockholm, Sweden",
+                "bookBeforeDays":3,
+                "city":"stockholm",
+                "contactEmailAddress":"vendor_amanda@mailinator.com",
+                "contactNumber":"0046 70 811 37 13",
+                "contactPersonName":"Amanda Håkansson",
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637413080,
+                      "_nanoseconds":0
+                   }
+                },
+                "description":"Every event is different. But every event has the same goal, to bring people together. And nothing brings people together like great coffee. At Fogarolli we’re passionate about events. And coffee (but that goes without saying). Our bright red, custom-built mobile coffee vans, not only deliver world-class Italian coffee made by professional baristas, they also have a tendency to attract a crowd. Which is great, because we are quite the chatty bunch. That’s why we make sure all our baristas are also trained in the ‘art of conversation’. So, whether you are planning to organise a music festival, a corporate event or a private event, we have the experience to take your event to the next level.",
+                "isDeliveryEnabled":true,
+                "isPickupEnabled":false,
+                "isSupplementEnabled":false,
+                "locations":[
+                   "solna",
+                   "spånga",
+                   "täby",
+                   "tyresö",
+                   "vårby",
+                   "åkersberga",
+                   "älvsjö",
+                   "bandhagen",
+                   "djursholm"
+                ],
+                "logoImageUrl":"",
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637413125,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Niklas & Friends",
+                "nonBookableDates":[
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1637953200,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638039600,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638558000,
+                         "_nanoseconds":0
+                      }
+                   }
+                ],
+                "organizationNumber":"112588-5111",
+                "postalCode":"120 30",
+                "status":"enabled",
+                "supplementMarkup":0,
+                "__collections__":{
+                   
+                }
+             },
+             "glD6KGj5DTQvxbvQZha4":{
+                "address":"Urvädersgränd 11, 116 46 Stockholm, Sweden",
+                "bookBeforeDays":2,
+                "city":"stockholm",
+                "contactEmailAddress":"vendor_alice@mailinator.com",
+                "contactNumber":"0046 8 420 300 80",
+                "contactPersonName":"Alice Söderberg",
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637412532,
+                      "_nanoseconds":0
+                   }
+                },
+                "description":"By the Bakery offers catering in the form of freshly baked bread, breakfast and coffee with free delivery within customs. The bread is baked with the best organic ingredients in a traditional and artisanal way according to all the rules of art. The range is also adapted to suit everyone, as By the Bakery offers vegan cinnamon buns, gluten-free sandwiches and many lactose-free alternatives. We would also like to take the opportunity to mention that By the Bakery are proud winners of this year's confectioner and have also made the desserts for the Nobel dinner 2012 and 2013.",
+                "isDeliveryEnabled":true,
+                "isPickupEnabled":true,
+                "isSupplementEnabled":true,
+                "locations":[
+                   "åkersberga",
+                   "älta",
+                   "bagarmossen",
+                   "enskede"
+                ],
+                "logoImageUrl":"https://firebasestorage.googleapis.com/v0/b/instacate-development-en-472ed.appspot.com/o/images%2Fvendors%2FglD6KGj5DTQvxbvQZha4%2Flogo_by%20the%20baker.png?alt=media&token=764aea89-ce3b-42f7-9663-03460bf5f92a",
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637412925,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"By the Bakery",
+                "nonBookableDates":[
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1637953200,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638039600,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638558000,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638644400,
+                         "_nanoseconds":0
+                      }
+                   }
+                ],
+                "organizationNumber":"449151-4707",
+                "postalCode":"116 46",
+                "status":"enabled",
+                "supplementMarkup":0,
+                "__collections__":{
+                   
+                }
+             }
+          },
+          "system_config":{
+             "REp6lXl9OP6NmJUh6KrY":{
+                "instacate_fee":10,
+                "itemCategories":[
+                   "chicken",
+                   "fish",
+                   "meat",
+                   "vegetarian",
+                   "beverage",
+                   "other"
+                ],
+                "itemCourses":[
+                   "starter",
+                   "main",
+                   "dessert"
+                ],
+                "locations":{
+                   "stockholm":[
+                      "åkersberga",
+                      "älta",
+                      "älvsjö",
+                      "årsta",
+                      "bagarmossen",
+                      "bandhagen",
+                      "bro",
+                      "bromma",
+                      "danderyd",
+                      "djursholm",
+                      "enskede"
+                   ]
+                },
+                "modifiedByID":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637416680,
+                      "_nanoseconds":0
+                   }
+                },
+                "moms":12,
+                "nonBookableDates":[
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1637953200,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638039600,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638558000,
+                         "_nanoseconds":0
+                      }
+                   },
+                   {
+                      "__datatype__":"timestamp",
+                      "value":{
+                         "_seconds":1638644400,
+                         "_nanoseconds":0
+                      }
+                   }
+                ],
+                "tags":[
+                   "breakfast",
+                   "chrismas",
+                   "coffee",
+                   "lunch",
+                   "dinner",
+                   "outdoor events"
+                ],
+                "__collections__":{
+                   
+                }
+             }
+          },
+          "customer_faqs":{
+             "DjZeCyZN4HvVZ07Jvise":{
+                "answer":"It is always clear what is included in your order, but in general the food and delivery are always included.",
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637561365,
+                      "_nanoseconds":0
+                   }
+                },
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637561425,
+                      "_nanoseconds":0
+                   }
+                },
+                "question":"What is included?",
+                "__collections__":{
+                   
+                }
+             },
+             "SZ8kr7HxQl4lNFBIwGS7":{
+                "answer":"You can generally change your order up to 4 days before your event. Contact us at hej@instacate.se and we will try to help you!",
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_user/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637561160,
+                      "_nanoseconds":0
+                   }
+                },
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_user/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637561335,
+                      "_nanoseconds":0
+                   }
+                },
+                "question":"Can I change my order?",
+                "__collections__":{
+                   
+                }
+             },
+             "oVZskQwKywQzWrw4cT1T":{
+                "answer":"We are here to help you! Send an email to hej@instacate.se or call 08-888 111.",
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637561460,
+                      "_nanoseconds":0
+                   }
+                },
+                "isActive":true,
+                "modifiedById":"/admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2",
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637561520,
+                      "_nanoseconds":0
+                   }
+                },
+                "question":"I have questions or need help - what do I do?",
+                "__collections__":{
+                   
+                }
+             }
+          },
+          "vendor_packages":{
+             "28vt7GHd9mZTnMHQIpgE":{
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637562315,
+                      "_nanoseconds":0
+                   }
+                },
+                "description":"Hot smoked salmon with oven-roasted root vegetables, salad, vinaigrette and feta cheese cream. Sourdough bread with spread. All without added gluten, lactose, nuts",
+                "endServiceTimeSeconds":57600,
+                "imageUrl":"url",
+                "isDirectBooking":true,
+                "maximumOrderCapacity":200,
+                "minimumOrderCapacity":1,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637562396,
+                      "_nanoseconds":0
+                   }
+                },
+                "pricePerUnit":125,
+                "startServiceTimeSeconds":25200,
+                "status":"enabled",
+                "tags":[
+                   "Lunch",
+                   "Salad"
+                ],
+                "title":"The fisherman",
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "__collections__":{
+                   "vendor_package_items":{
+                      "7Erxa3kN0kwx4lcU2NEP":{
+                         "category":"fish",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637562542,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"Hot smoked salmon with oven-roasted root vegetables, salad, vinaigrette and feta cheese cream. Sourdough bread with spread. All without added gluten, lactose, nuts",
+                         "imageUrl":"url",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637562595,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Smoked Salmon Salad",
+                         "__collections__":{
+                            
+                         }
+                      }
+                   }
+                }
+             },
+             "AshmlfZMN9sjI3KUIDIv":{
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637419200,
+                      "_nanoseconds":0
+                   }
+                },
+                "description":"A ham sandwich and a cold-pressed fresh orange juice.  Can be changed to another sandwich and juice. Write in the comment!",
+                "endServiceTimeSeconds":57600,
+                "imageUrl":"url comes here",
+                "isDirectBooking":true,
+                "maximumOrderCapacity":200,
+                "minimumOrderCapacity":1,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637419260,
+                      "_nanoseconds":0
+                   }
+                },
+                "pricePerUnit":70,
+                "startServiceTimeSeconds":25200,
+                "status":"enabled",
+                "tags":[
+                   "Breakfast"
+                ],
+                "title":"Small breakfast package",
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "__collections__":{
+                   "vendor_package_items":{
+                      "Di1E7sg4CjlQdG5GpI4g":{
+                         "category":"beverage",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637420700,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"",
+                         "image":"url",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637420700,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Fresh Orange Juice",
+                         "__collections__":{
+                            
+                         }
+                      },
+                      "uxLCoMhSIJQ81rxAba4l":{
+                         "category":"meat",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637420400,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"",
+                         "imageUrl":"url here",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637420460,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Ham Sandwich",
+                         "__collections__":{
+                            
+                         }
+                      }
+                   }
+                }
+             },
+             "MYP0D5DsBLeRUWXImm9V":{
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637562985,
+                      "_nanoseconds":0
+                   }
+                },
+                "description":"A ham sandwich, a cold-pressed fresh orange juice, a croisant and a yoghurt with granola and compote.  Can be changed to another sandwich and juice. Write in the comment!",
+                "endServiceTimeSeconds":57600,
+                "imageUrl":"url",
+                "isDirectBooking":true,
+                "maximumOrderCapacity":200,
+                "minimumOrderCapacity":1,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637563032,
+                      "_nanoseconds":0
+                   }
+                },
+                "pricePerUnit":125,
+                "startServiceTimeSeconds":25200,
+                "status":"enabled",
+                "tags":[
+                   "breakfast"
+                ],
+                "title":"Great breakfast package",
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "__collections__":{
+                   "vendor_package_items":{
+                      "I4bV5B7dDwLjX39Fqybo":{
+                         "category":"other",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563502,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"croissant",
+                         "imageUrl":"url",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563615,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Croissant",
+                         "__collections__":{
+                            
+                         }
+                      },
+                      "UdA2iGjbsRjgwbxwi0se":{
+                         "category":"beverage",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563345,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"A cold-pressed fresh orange juice",
+                         "imageUrl":"url",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563375,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Fresh Orange Juice",
+                         "__collections__":{
+                            
+                         }
+                      },
+                      "dVJFcrbWmY0HoHzFPbds":{
+                         "category":"meat",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563220,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"Ham Sandwich",
+                         "imageUrl":"url",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563255,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Ham Sandwich",
+                         "__collections__":{
+                            
+                         }
+                      },
+                      "tXRVjjby8i15cAma08td":{
+                         "category":"other",
+                         "course":"",
+                         "createdById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "createdOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563765,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "description":"yoghurt with granola and compote",
+                         "imageUrl":"url",
+                         "isActive":true,
+                         "modifiedById":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                         },
+                         "modifiedOn":{
+                            "__datatype__":"timestamp",
+                            "value":{
+                               "_seconds":1637563795,
+                               "_nanoseconds":0
+                            }
+                         },
+                         "title":"Yoghurt",
+                         "__collections__":{
+                            
+                         }
+                      }
+                   }
+                }
+             }
+          },
+          "vendor_users":{
+             "5cR14JgQJySYauKGbfnCBub80rC3":{
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637415472,
+                      "_nanoseconds":0
+                   }
+                },
+                "emailAddress":"vendor_amanda@mailinator.com",
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637415492,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Amanda Håkansson",
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/Uxs2KRlmWISPIM7lZrGE"
+                },
+                "__collections__":{
+                   
+                }
+             },
+             "GQdGmpjHdYSO9jRMhwiC7x4zNJC3":{
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637415183,
+                      "_nanoseconds":0
+                   }
+                },
+                "emailAddress":"vendor_alice@mailinator.com",
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637415295,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Alice Söderberg",
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profile/glD6KGj5DTQvxbvQZha4"
+                },
+                "__collections__":{
+                   
+                }
+             },
+             "NzVcAllf3aZ7NhDfjRAbMRcuPGC2":{
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637415715,
+                      "_nanoseconds":0
+                   }
+                },
+                "emailAddress":"vendor_anette@mailinator.com",
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"admin_users/GIvS3edMCZMm0bAVshYFnVkZnxe2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637415719,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Anette Henriksson",
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/1nfVZlK8IfreDXvnyHcY"
+                },
+                "__collections__":{
+                   
+                }
+             }
+          },
+          "customer_users":{
+             "56K6wbmW1MeAQEEvue2z6OUQjAx1":{
+                "address":"Mäster Samuelsgatan 46A, 111 57 Stockholm, Sweden",
+                "city":"Stockholm",
+                "company":"H&M",
+                "contactNumber":"0046 8 796 55 00",
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637565302,
+                      "_nanoseconds":0
+                   }
+                },
+                "emailAddress":"customer_camilla@mailinator.com",
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/56K6wbmW1MeAQEEvue2z6OUQjAx1"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637565325,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Camilla Fredriksson",
+                "organizationNumber":"147855-9214",
+                "postalCode":"111 57",
+                "status":"enabled",
+                "__collections__":{
+                   
+                }
+             },
+             "TL5188EmoxaQgJ8dAU5m52cKZ943":{
+                "address":"Kistagången 19, 164 40 Kista, Sweden",
+                "city":"stockholm",
+                "company":"Ericsson",
+                "contactNumber":"0046 10 719 00 00",
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637564722,
+                      "_nanoseconds":0
+                   }
+                },
+                "emailAddress":"customer_barbro@mailinator.com",
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_user/TL5188EmoxaQgJ8dAU5m52cKZ943"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637564785,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Barbro Nyström",
+                "organizationNumber":"145785-1145",
+                "postalCode":"164 40",
+                "status":"enabled",
+                "__collections__":{
+                   
+                }
+             },
+             "f9dQ3IA8JuPiy65GZcpVzanB8HB2":{
+                "address":"Klarabergsviadukten 63, 111 64 Stockholm, Sweden",
+                "city":"Stockholm",
+                "company":"Essity Aktiebolag",
+                "contactNumber":"0046 8 788 51 00",
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637565025,
+                      "_nanoseconds":0
+                   }
+                },
+                "emailAddress":"customer_birgitta@mailinator.com",
+                "isActive":true,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/f9dQ3IA8JuPiy65GZcpVzanB8HB2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637565055,
+                      "_nanoseconds":0
+                   }
+                },
+                "name":"Birgitta Lindberg",
+                "organizationNumber":"588552-8411",
+                "postalCode":"111 64",
+                "status":"enabled",
+                "__collections__":{
+                   
+                }
+             }
+          },
+          "admin_users":{
+             "GIvS3edMCZMm0bAVshYFnVkZnxe2":{
+                "emailAddress":"arsalaan+admin@diyainteractive.com",
+                "isActive":true,
+                "name":"Arsalaan Shaikh",
+                "__collections__":{
+                   
+                }
+             }
+          },
+          "customer_orders":{
+             "EBaOQI9tpQbtvmkINAaj":{
+                "additionalInformation":"Please call me if you need any clarification on the order ",
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/TL5188EmoxaQgJ8dAU5m52cKZ943"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637733025,
+                      "_nanoseconds":0
+                   }
+                },
+                "customerCompany":"Ericsson",
+                "customerContactNumber":"0046 10 719 00 00",
+                "customerContactPerson":"Barbro Nyström",
+                "customerEmailAddress":"customer_barbro@mailinator.com",
+                "customerId":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/TL5188EmoxaQgJ8dAU5m52cKZ943"
+                },
+                "customerOrganizationNumber":"145785-1145",
+                "instacateFeeAmount":328.125,
+                "instacateFeePercent":10,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_users/GQdGmpjHdYSO9jRMhwiC7x4zNJC3"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637733025,
+                      "_nanoseconds":0
+                   }
+                },
+                "momsAmount":433.125,
+                "momsPercent":"12",
+                "orderId":"202111241",
+                "packageTotalAmount":3125,
+                "serviceAddressFloor":"",
+                "serviceArea":"",
+                "serviceCity":"",
+                "serviceDate":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1638241200,
+                      "_nanoseconds":0
+                   }
+                },
+                "serviceDoorCode":"",
+                "serviceMode":"pickup",
+                "servicePostalCode":"",
+                "serviceStreetAddress":"",
+                "status":"accepted",
+                "supplementAmount":0,
+                "supplementPercent":0,
+                "totalPackageQuantity":25,
+                "totalPayableAmount":4042.5,
+                "totalPeople":25,
+                "vendorId":"vendor_profiles/glD6KGj5DTQvxbvQZha4",
+                "vendorName":"By the Bakery",
+                "__collections__":{
+                   "customer_order_payments":{
+                      "S4XW3omfoWDO6HxRFYyz":{
+                         "billingAddressFloor":"5 tr",
+                         "billingArea":"Kista",
+                         "billingCity":"Stockholm",
+                         "billingPostalCode":"164 40",
+                         "billingStreetAddress":"Kistagången 19",
+                         "__collections__":{
+                            
+                         }
+                      }
+                   },
+                   "customer_order_packages":{
+                      "S5oAIsRikZdia9FiW79o":{
+                         "allergyComments":"Please ensure that 5 units do not contain gluten ",
+                         "description":"A ham sandwich, a cold-pressed fresh orange juice, a croissant and a yoghurt with granola and compote.  Can be changed to another sandwich and juice. Write in the comment!",
+                         "imageUrl":"url",
+                         "orderedQuantity":"25",
+                         "packageId":"/vendor_packages/MYP0D5DsBLeRUWXImm9V",
+                         "pricePerUnit":"125",
+                         "title":"Great breakfast package",
+                         "__collections__":{
+                            "customer_order_package_items":{
+                               "4fk2ar2aPu6lW9luPIkb":{
+                                  "category":"other",
+                                  "course":"",
+                                  "description":"Croissant",
+                                  "imageUrl":"url",
+                                  "itemId":"/vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/I4bV5B7dDwLjX39Fqybo",
+                                  "title":"Croissant",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "EKIOBTvVJ6CIbt0DT99L":{
+                                  "category":"beverage",
+                                  "course":"",
+                                  "description":"A cold-pressed fresh orange juice",
+                                  "imageUrl":"url",
+                                  "itemId":"/vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/UdA2iGjbsRjgwbxwi0se",
+                                  "title":"Fresh Orange Juice",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "aYD4x5JmUrDYtylVHbPP":{
+                                  "category":"meat",
+                                  "course":"",
+                                  "description":"Ham Sandwich",
+                                  "imageUrl":"url",
+                                  "itemId":"/vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/dVJFcrbWmY0HoHzFPbds",
+                                  "title":"Ham Sandwich",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "xaqkyFQb2rMJG4FRQer9":{
+                                  "category":"other",
+                                  "course":"",
+                                  "description":"yoghurt with granola and compote",
+                                  "imageUrl":"url",
+                                  "itemId":"/vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/tXRVjjby8i15cAma08td",
+                                  "title":"Yoghurt",
+                                  "__collections__":{
+                                     
+                                  }
+                               }
+                            }
+                         }
+                      }
+                   }
+                }
+             },
+             "QZOe6eQz0m5c3zbbQ3m4":{
+                "additionalInformation":"Please ensure that the order is serviced accurately ",
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/f9dQ3IA8JuPiy65GZcpVzanB8HB2"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637044345,
+                      "_nanoseconds":0
+                   }
+                },
+                "customerCompany":"Essity Aktiebolag",
+                "customerContactNumber":"0046 8 788 51 00",
+                "customerContactPerson":"Birgitta Lindberg",
+                "customerEmailAddress":"customer_birgitta@mailinator.com",
+                "customerId":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/f9dQ3IA8JuPiy65GZcpVzanB8HB2"
+                },
+                "customerOrganizationNumber":"588552-8411",
+                "instacateFeeAmount":428.45,
+                "instacateFeePercent":10,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/f9dQ3IA8JuPiy65GZcpVzanB8HB2"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637044375,
+                      "_nanoseconds":0
+                   }
+                },
+                "momsAmount":565.554,
+                "momsPercent":12,
+                "orderId":"202111161",
+                "packageTotalAmount":4100,
+                "serviceAddressFloor":"4 tr",
+                "serviceArea":"Stockholm",
+                "serviceCity":"Stockholm",
+                "serviceDate":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1638159300,
+                      "_nanoseconds":0
+                   }
+                },
+                "serviceDoorCode":"",
+                "serviceMode":"delivery",
+                "servicePostalCode":"111 64",
+                "serviceStreetAddress":"Klarabergsviadukten 63",
+                "status":"rejected",
+                "supplementAmount":184.5,
+                "supplementPercent":4.5,
+                "totalPackageQuantity":35,
+                "totalPayableAmount":5278.504,
+                "totalPeople":30,
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/glD6KGj5DTQvxbvQZha4"
+                },
+                "vendorName":"By the Bakery",
+                "__collections__":{
+                   "customer_order_payments":{
+                      "mut4AQku6KtUnyUJGNFC":{
+                         "billingAddressFloor":"4 tr",
+                         "billingArea":"Stockholm",
+                         "billingCity":"Stockholm",
+                         "billingPostalCode":"116 46",
+                         "billingStreetAddress":"Urvädersgränd 11",
+                         "__collections__":{
+                            
+                         }
+                      }
+                   },
+                   " customer_order_packages":{
+                      "SGl3chzMVHnlRTflw1q0":{
+                         "allergyComments":"",
+                         "description":"A ham sandwich and a cold-pressed fresh orange juice.  Can be changed to another sandwich and juice. Write in the comment!",
+                         "imageUrl":"url",
+                         "orderedQuantity":5,
+                         "packageId":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_packages/28vt7GHd9mZTnMHQIpgE"
+                         },
+                         "pricePerUnit":70,
+                         "title":"Small breakfast package",
+                         "__collections__":{
+                            "customer_order_package_items":{
+                               "3Uhy9aYh2XTzi3UvQ8yL":{
+                                  "category":"meat",
+                                  "course":"",
+                                  "description":"Ham Sandwich",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/AshmlfZMN9sjI3KUIDIv/vendor_package_items/uxLCoMhSIJQ81rxAba4l"
+                                  },
+                                  "title":"Ham Sandwich",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "YWBp90B99MEE9kt5WmKK":{
+                                  "category":"beverage",
+                                  "course":"",
+                                  "description":"",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/AshmlfZMN9sjI3KUIDIv/vendor_package_items/Di1E7sg4CjlQdG5GpI4g"
+                                  },
+                                  "title":"Fresh Orange Juice",
+                                  "__collections__":{
+                                     
+                                  }
+                               }
+                            }
+                         }
+                      },
+                      "ZKiRUyGNyDeJputQ3b8I":{
+                         "allergyComments":"Please ensure that 3 servings do not contain nuts",
+                         "description":"Hot smoked salmon with oven-roasted root vegetables, salad, vinaigrette and feta cheese cream. Sourdough bread with spread. All without added gluten, lactose, nuts",
+                         "imageUrl":"url",
+                         "orderedQuantity":11,
+                         "packageId":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_packages/28vt7GHd9mZTnMHQIpgE"
+                         },
+                         "pricePerUnit":125,
+                         "title":"The fisherman",
+                         "__collections__":{
+                            "customer_order_package_items":{
+                               "Gj4iEVsDyRk1dGe3FoOK":{
+                                  "category":"fish",
+                                  "course":"",
+                                  "description":"Hot smoked salmon with oven-roasted root vegetables, salad, vinaigrette and feta cheese cream. Sourdough bread with spread. All without added gluten, lactose, nuts",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/28vt7GHd9mZTnMHQIpgE/vendor_package_items/7Erxa3kN0kwx4lcU2NEP"
+                                  },
+                                  "title":"Smoked Salmon Salad",
+                                  "__collections__":{
+                                     
+                                  }
+                               }
+                            }
+                         }
+                      },
+                      "q3VKQrE5iMfCvHGxFGAb":{
+                         "allergyComments":"Please ensure that 3 units do not contain lactose",
+                         "description":"A ham sandwich, a cold-pressed fresh orange juice, a croissant and a yoghurt with granola and compote.  Can be changed to another sandwich and juice. Write in the comment!",
+                         "imageUrl":"url",
+                         "orderedQuantity":19,
+                         "packageId":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_packages/MYP0D5DsBLeRUWXImm9V"
+                         },
+                         "pricePerUnit":125,
+                         "title":"Great breakfast package",
+                         "__collections__":{
+                            "customer_order_package_items":{
+                               "6RT0gyrFcqEpOMvM6kKG":{
+                                  "category":"other",
+                                  "course":"",
+                                  "description":"Croissant",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/I4bV5B7dDwLjX39Fqybo"
+                                  },
+                                  "title":"Croissant",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "EhHOsX78r8DYxrViWuTm":{
+                                  "category":"beverage",
+                                  "course":"",
+                                  "description":"A cold-pressed fresh orange juice",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/UdA2iGjbsRjgwbxwi0se"
+                                  },
+                                  "title":"Fresh Orange Juice",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "a8ztQTVaX7AydmLrUiNq":{
+                                  "category":"meat",
+                                  "course":"Ham Sandwich",
+                                  "description":"url",
+                                  "imageUrl":"",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/dVJFcrbWmY0HoHzFPbds"
+                                  },
+                                  "title":"Ham Sandwich",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "b7HObq1Yx54dFrZNZX2E":{
+                                  "category":"other",
+                                  "course":"",
+                                  "description":"yoghurt with granola and compote",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/MYP0D5DsBLeRUWXImm9V/vendor_package_items/tXRVjjby8i15cAma08td"
+                                  },
+                                  "title":"Yoghurt",
+                                  "__collections__":{
+                                     
+                                  }
+                               }
+                            }
+                         }
+                      }
+                   }
+                }
+             },
+             "QoG7Iv4V8JmrlbE2vD7y":{
+                "additionalInformation":"Please use the staircase lift is under maintenance",
+                "createdById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/56K6wbmW1MeAQEEvue2z6OUQjAx1"
+                },
+                "createdOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1636115111,
+                      "_nanoseconds":0
+                   }
+                },
+                "customerCompany":"H&M",
+                "customerContactNumber":"0046 8 796 55 00",
+                "customerContactPerson":"Camilla Fredriksson",
+                "customerEmailAddress":"customer_camilla@mailinator.com",
+                "customerId":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/56K6wbmW1MeAQEEvue2z6OUQjAx1"
+                },
+                "customerOrganizationNumber":"147855-9214",
+                "instacateFeeAmount":278.25,
+                "instacateFeePercent":10,
+                "modifiedById":{
+                   "__datatype__":"documentreference",
+                   "value":"customer_users/56K6wbmW1MeAQEEvue2z6OUQjAx1"
+                },
+                "modifiedOn":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1636115122,
+                      "_nanoseconds":0
+                   }
+                },
+                "momsAmount":367.29,
+                "momsPercent":12,
+                "orderId":"202111051",
+                "packageTotalAmount":2650,
+                "serviceAddressFloor":"3 tr",
+                "serviceArea":"Stockholm",
+                "serviceCity":"Stockholm",
+                "serviceDate":{
+                   "__datatype__":"timestamp",
+                   "value":{
+                      "_seconds":1637893800,
+                      "_nanoseconds":0
+                   }
+                },
+                "serviceDoorCode":"",
+                "serviceMode":"delivery",
+                "servicePostalCode":"111 57",
+                "serviceStreetAddress":"Mäster Samuelsgatan 46A",
+                "status":"unconfirmed",
+                "supplementAmount":132.5,
+                "supplementPercent":5,
+                "totalPackageQuantity":30,
+                "totalPayableAmount":3060.75,
+                "totalPeople":29,
+                "vendorId":{
+                   "__datatype__":"documentreference",
+                   "value":"vendor_profiles/glD6KGj5DTQvxbvQZha4"
+                },
+                "vendorName":"By the Bakery",
+                "__collections__":{
+                   "customer_order_payments":{
+                      "Oqsm86zxvlHRL3gcSc79":{
+                         "billingAddressFloor":"",
+                         "billingArea":"Stockholm",
+                         "billingCity":"Stockholm",
+                         "billingPostalCode":"111 57",
+                         "billingStreetAddress":"Mäster Samuelsgatan 46A",
+                         "__collections__":{
+                            
+                         }
+                      }
+                   },
+                   "customer_order_packages":{
+                      "brL9mkyutdooRtzk2HYP":{
+                         "allergyComments":"",
+                         "description":"A ham sandwich and a cold-pressed fresh orange juice.  Can be changed to another sandwich and juice. Write in the comment!",
+                         "imageUrl":"url",
+                         "orderedQuantity":"20",
+                         "packageId":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_packages/28vt7GHd9mZTnMHQIpgE"
+                         },
+                         "pricePerUnit":"70",
+                         "title":"Small breakfast package",
+                         "__collections__":{
+                            "customer_order_package_items":{
+                               "JPyrByP2FWLkqsFaOOJm":{
+                                  "category":"beverage",
+                                  "course":"",
+                                  "description":"",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/AshmlfZMN9sjI3KUIDIv/vendor_package_items/Di1E7sg4CjlQdG5GpI4g"
+                                  },
+                                  "title":"Fresh Orange Juice",
+                                  "__collections__":{
+                                     
+                                  }
+                               },
+                               "u2EjWO2uNaTfxTWoRBzD":{
+                                  "category":"meat",
+                                  "course":"",
+                                  "description":"Ham Sandwich",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/AshmlfZMN9sjI3KUIDIv/vendor_package_items/uxLCoMhSIJQ81rxAba4l"
+                                  },
+                                  "title":"Ham Sandwich",
+                                  "__collections__":{
+                                     
+                                  }
+                               }
+                            }
+                         }
+                      },
+                      "qbIqLXKZePMxNQWM67G9":{
+                         "allergyComments":"Please ensure that 3 servings do not contain lactose",
+                         "description":"Hot smoked salmon with oven-roasted root vegetables, salad, vinaigrette and feta cheese cream. Sourdough bread with spread. All without added gluten, lactose, nuts",
+                         "imageUrl":"url",
+                         "orderedQuantity":10,
+                         "packageId":{
+                            "__datatype__":"documentreference",
+                            "value":"vendor_packages/28vt7GHd9mZTnMHQIpgE"
+                         },
+                         "pricePerUnit":125,
+                         "title":"The fisherman",
+                         "__collections__":{
+                            "customer_order_package_items":{
+                               "EAjyBDUEFx9CBUWiKxRp":{
+                                  "category":"fish",
+                                  "course":"",
+                                  "description":"Hot smoked salmon with oven-roasted root vegetables, salad, vinaigrette and feta cheese cream. Sourdough bread with spread. All without added gluten, lactose, nuts",
+                                  "imageUrl":"url",
+                                  "itemId":{
+                                     "__datatype__":"documentreference",
+                                     "value":"vendor_packages/28vt7GHd9mZTnMHQIpgE/vendor_package_items/7Erxa3kN0kwx4lcU2NEP"
+                                  },
+                                  "title":"Smoked Salmon Salad",
+                                  "__collections__":{
+                                     
+                                  }
+                               }
+                            }
+                         }
+                      }
+                   }
+                }
+             }
+          }
+       }
+    }
+ }

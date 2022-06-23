@@ -1,0 +1,16 @@
+
+.vscode
+venv
+venv2
+.DS_Store
+*.pyc
+*.log.*
+*.sql
+_*.*
+*.log
+data/
+static/
+backend/utils/config.py
+# Elastic Beanstalk Files
+# Environment Files
+# backend/.env*
